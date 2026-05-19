@@ -92,9 +92,7 @@ The **Parking Management System** is a Windows desktop application designed to s
 ---
 ## 🎬 Demo Video
 
-[![Watch the Demo](https://img.shields.io/badge/Google%20Drive-Watch%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/YOUR_SHARE_LINK](https://drive.google.com/file/d/1jFJO1rJvjwID4dzcyyenaBFn62-sgyr8/view?usp=sharing
-)
-
+[![Watch the Demo](https://img.shields.io/badge/Google%20Drive-Watch%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jFJO1rJvjwID4dzcyyenaBFn62-sgyr8/view?usp=sharing)
 > Click the badge above to watch a full walkthrough of the Parking Management System.
 
 ## 📸 Screenshots
