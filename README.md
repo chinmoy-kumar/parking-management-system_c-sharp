@@ -23,6 +23,7 @@
 - [Overview](#-overview)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
+- [Demo Video](#-demo-video)
 - [Screenshots](#-screenshots)
 - [Database Schema](#-database-schema)
 - [Getting Started](#-getting-started)
