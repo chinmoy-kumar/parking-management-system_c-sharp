@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "K:\\C#\\Final Project\\Final Version\\parking management system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F70AC835-4A9C-4EA9-A5FE-D1D3745C8119}|parking management\\parking management.csproj|K:\\C#\\Final Project\\Final Version\\parking management system\\parking management\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F70AC835-4A9C-4EA9-A5FE-D1D3745C8119}|parking management\\parking management.csproj|k:\\c#\\final project\\final version\\parking management system\\parking management\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F70AC835-4A9C-4EA9-A5FE-D1D3745C8119}|parking management\\parking management.csproj|solutionrelative:parking management\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{F70AC835-4A9C-4EA9-A5FE-D1D3745C8119}|parking management\\parking management.csproj|solutionrelative:parking management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F70AC835-4A9C-4EA9-A5FE-D1D3745C8119}|parking management\\parking management.csproj|k:\\c#\\final project\\final version\\parking management system\\parking management\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F70AC835-4A9C-4EA9-A5FE-D1D3745C8119}|parking management\\parking management.csproj|K:\\C#\\Final Project\\Final Version\\parking management system\\parking management\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F70AC835-4A9C-4EA9-A5FE-D1D3745C8119}|parking management\\parking management.csproj|solutionrelative:parking management\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -148,8 +148,7 @@
               "ToolTip": "K:\\C#\\Final Project\\Final Version\\parking management system\\parking management\\Form1.cs [Design]",
               "RelativeToolTip": "parking management\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T07:30:13.876Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-16T07:30:13.876Z"
             },
             {
               "$type": "Document",
@@ -161,8 +160,7 @@
               "RelativeToolTip": "parking management\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T07:30:15.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T07:30:15.853Z"
             },
             {
               "$type": "Document",
@@ -174,8 +172,7 @@
               "RelativeToolTip": "parking management\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T07:34:15.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T07:34:15.496Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "ToolTip": "K:\\C#\\Final Project\\Final Version\\parking management system\\parking management\\delete.cs [Design]",
               "RelativeToolTip": "parking management\\delete.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T16:19:31.097Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-15T16:19:31.097Z"
             },
             {
               "$type": "Document",
@@ -199,8 +195,7 @@
               "RelativeToolTip": "parking management\\delete.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T06:28:18.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T06:28:18.819Z"
             },
             {
               "$type": "Document",
@@ -245,8 +240,7 @@
               "ToolTip": "K:\\C#\\Final Project\\Final Version\\parking management system\\parking management\\dashboard.cs [Design]",
               "RelativeToolTip": "parking management\\dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T19:09:10.731Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-16T19:09:10.731Z"
             },
             {
               "$type": "Document",
@@ -270,8 +264,7 @@
               "RelativeToolTip": "parking management\\dashboard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T19:09:17.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T19:09:17.655Z"
             },
             {
               "$type": "Document",
@@ -293,8 +286,7 @@
               "RelativeToolTip": "parking management\\admin.Designer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwBcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T18:40:58.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T18:40:58.595Z"
             },
             {
               "$type": "Document",
@@ -316,8 +308,7 @@
               "RelativeToolTip": "parking management\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T12:25:09.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T12:25:09.042Z"
             }
           ]
         }
