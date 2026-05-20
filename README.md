@@ -97,6 +97,7 @@ The **Parking Management System** is a Windows desktop application designed to s
 > Click the badge above to watch a full walkthrough of the Parking Management System.
 
 ## 📸 Screenshots
+> Check `Screenshots` folder for these project screenshots.
 
 | Login Screen | Registration | Admin Dashboard |
 |---|---|---|
@@ -318,8 +319,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <div align="center">
 
 ⭐ **If you found this project useful, please give it a star!** ⭐
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=3B82F6&style=flat" alt="Profile Views" />
 
 *Made with ❤️ using C# and SQL Server*
 
