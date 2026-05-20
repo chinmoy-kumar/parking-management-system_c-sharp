@@ -137,7 +137,7 @@ namespace parking_management
 
             con.Open();
 
-            string query = "SELECT COUNT(*) FROM Parking";
+            string query = "SELECT COUNT(*) FROM Parking WHERE status = 'not paid'";
 
             SqlCommand cmd = new SqlCommand(query, con);
 

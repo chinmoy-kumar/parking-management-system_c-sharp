@@ -127,8 +127,8 @@ namespace parking_management
             
         }
 
-        private void button6_Click(object sender, EventArgs e)
-        {
+        private void button6_Click(object sender, EventArgs e) // logout button
+		{
             login l = new login();
 
             l.Show();
@@ -137,10 +137,6 @@ namespace parking_management
             //this.Close();
         }
 
-        private void label10_Click(object sender, EventArgs e)
-        {
-
-        }
 
         //slot calculation
         void SlotCalculation()
@@ -149,7 +145,7 @@ namespace parking_management
 
             con.Open();
 
-            string query = "SELECT COUNT(*) FROM Parking";
+            string query = "SELECT COUNT(*) FROM Parking WHERE status = 'not paid'";
 
             SqlCommand cmd = new SqlCommand(query, con);
 
@@ -169,8 +165,8 @@ namespace parking_management
             con.Close();
         }
 
-        private void button7_Click(object sender, EventArgs e)
-        {
+        private void button7_Click(object sender, EventArgs e) // Refresh button
+		{
             textBox1.Clear();
             LoadData();
         }

@@ -245,8 +245,7 @@
 			this.label10.Name = "label10";
 			this.label10.Size = new System.Drawing.Size(121, 29);
 			this.label10.TabIndex = 6;
-			this.label10.Text = "Welcome,";
-			this.label10.Click += new System.EventHandler(this.label10_Click);
+			this.label10.Text = "Welcome, ";
 			// 
 			// label3
 			// 
